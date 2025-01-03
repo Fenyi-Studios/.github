@@ -1,3 +1,3 @@
 <!-- 主页大图 ->
 
-![Homepage](https://github.com/user-attachments/assets/f23dd6fc-0fee-4cec-9a89-37623e6d7f80)
+![](https://github.com/user-attachments/assets/8932a1cc-22a6-4781-ad57-0a232f33409c)
